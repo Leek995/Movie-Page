@@ -10,6 +10,6 @@ The **Back-End Technologies** used as mentioned is *Glitch* for the creation of 
 
 
 
-Contributors 
+<sub>Contributors</sub>
 - Piotr Chomicki
 
