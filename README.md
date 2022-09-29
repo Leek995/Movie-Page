@@ -11,5 +11,5 @@ The **Back-End Technologies** used as mentioned is *Glitch* for the creation of 
 
 
 <sub>Contributors</sub>
-- Piotr Chomicki
+Piotr Chomicki
 
