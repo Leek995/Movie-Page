@@ -1,5 +1,5 @@
 # :movie_camera: Movie-App :film_strip:
-##### Description
+#### Description
 Movie App is a personal application that could be described as an archive of movies. Movie App was designed with the ability to organize and personalize a collection of movies as a user see's fit, for constant referrals. Movie App is great for storing favorite movies or even queue movies to watch later. Movie App, simply put, is documentation of movie history in a display that is visually pleasing.
 
 The application utilizes *OMDB API* to leverage their vast collections of movies from their database. allowing the users to interact with the API in a format that is extremely user friendly from the simplicity of a search bar. The user can maneuver the database for a specific movie by title which returns a movie poster. The poster along with other movie details is then stored to Movie App’s *Glitch* database powered by *node js* for reference at any time.  Movie app was developed to provide the movie collections back in several customizable categories starting with genres such as action, drama, horor, sci-fi, ect, favorites, and watch later.
