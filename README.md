@@ -15,13 +15,17 @@ To view Movie App in a live format click the link below.
 [Click here](https://leek995.github.io/Movie-Page/index.html)
 
 #### Instructions
-1. Click the search bar on the right hand side to begin a search of movie titles.
-2. Input movie titles, to get key movie details and a poster of the movie.
-3. Click All movies to view the collections in its entirety.
-4. View Favorites as well as add to them from All movies by clicking add movie(coming soon).
-5. View the movies according to it's genre by clicking "Genre" on the nav-bar. This will trigger a drop down which has several genre's.
-6. If there is any error you can Edit the movie by clicking the Edit Button on the bottom right side of the movie poster.
-7. Attached to the edit button feature is the ability to Remove a movie. 
+1. Click the **"Search bar"** on the right hand side to begin a search of movie titles.
+2. Input movie titles and receieve a movie with it's original poster, rating, director, and genre.
+3. Click **"All"** movies to view the collections in its entirety.
+4. View the movies according to it's genre by clicking **"Genre"** on the nav-bar. This will trigger a drop down which has several genre's.
+5. If there is any error you can Edit the movie by clicking the **"Edit"** button on the bottom right side of the movie poster.
+6. Attached to the edit button feature is the ability to **"Remove"** a movie. 
+
+##### Next version
+1. Allow users to add favorite movie from All movies.
+2. Include a pagination for larger collection.
+3. Improve layout for better user experience. 
 
 <sub>Contributors</sub>
   - Piotr Chomicki
