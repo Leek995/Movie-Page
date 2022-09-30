@@ -9,6 +9,7 @@ The **Front-End Technologies** that make all the magic  possible are *JavaScript
 The **Back-End Technologies** used as mentioned is *Glitch* for the creation of the *node js* database to capture the personalized data of movies. Using Gltich made helding data fairly seemless. Glitch also assisted in forming accurate load times by outputing the data at random increments. This was extremely tough for us simply because this was the first time either of us dealt with loading. Being able to customize the time of data helped us imporive our skills with loads.
 
 #### Access 
+To view Movie App in a live format click the link below.
 [Click here](https://leek995.github.io/Movie-Page/index.html)
 
 
